@@ -1,0 +1,44 @@
+{
+    "General-Settings": {
+        "Use-Proxies": true,
+        "Scrape-Proxies": true,
+        "Show-Logs": true,
+        "Show-License": true,
+        "Spam-Amount": 250,
+        "Role-Amount": 50,
+        "Channel-Amount": 50
+    },
+    "Bot-Settings": {
+        "Token": "Your Bot Token",
+        "Prefix": "Saturn!",
+        "Bot": true
+    },
+    "Nuke-Settings": {
+        "Nick-Name": "niggerd",
+        "Server-Name": "discord.gg/lith",
+        "Rename-Channels": [
+            "nuked",
+            "sed",
+            "niggerd"
+        ],
+        "Channel-Names": [
+            "async-x-saturn",
+            "cool-cat",
+            "niggerd"
+        ],
+        "Role-Names": [
+            "async-x-saturn",
+            "cool-cat",
+            "niggerd"
+        ],
+        "Webhook-Usernames": [
+            ".gg/lith"
+        ],
+        "Webhook-Contents": [
+            "@everyone imagine getting niggerd :sob: join up discord.gg/lith & sub to sync https://www.youtube.com/channel/UCt9e7PNkf4rBk9lgUmZq3Pg",
+            "@everyone nuked :sob: join up discord.gg/lith & sub to sync https://www.youtube.com/channel/UCt9e7PNkf4rBk9lgUmZq3Pg",
+            "@everyone join cat gang discord.gg/lith & sub to sync https://www.youtube.com/channel/UCt9e7PNkf4rBk9lgUmZq3Pg"
+        ]
+
+    }
+}
